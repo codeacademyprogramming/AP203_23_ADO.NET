@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0d89bafd-ea67-4110-8723-cb090143dfae": {
+      "ProjectGuid": "0d89bafd-ea67-4110-8723-cb090143dfae",
+      "DisplayName": "P203University",
+      "ColorIndex": 0
+    },
+    "fed45f67-b826-47ae-a080-e0a0e18c9833": {
+      "ProjectGuid": "fed45f67-b826-47ae-a080-e0a0e18c9833",
+      "DisplayName": "P203University2",
+      "ColorIndex": 1
+    },
+    "cf77e5ac-d99d-40a0-b72a-591dc43f8a1c": {
+      "ProjectGuid": "cf77e5ac-d99d-40a0-b72a-591dc43f8a1c",
+      "DisplayName": "FootbalApp",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
